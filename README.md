@@ -18,5 +18,19 @@ The project implements robust data cleaning, feature engineering, exploratory da
 **Software Design Patterns · Spring Boot · Java · Web Application**  
 A comprehensive pharmacy management system built as a learning project to demonstrate the practical implementation of 6 design patterns (Factory, Observer, Command, Decorator, Strategy, Template Method). The application provides complete features for managing medicines, processing sales transactions, user management with role-based access control, and generating reports using Spring Boot, MyBatis, and Thymeleaf.
 
+---
+
+More projects are on the way! Feel free to explore the repositories.
+
+## Let's Connect!
+
+I'm always open to new opportunities, collaborations, or just having a chat about tech.  
+
+📧 [jundi.mj99@gmail.com]  
+🔗 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-jundullah-477322255/)  
+
+Thank you for visiting! 😊  
+Happy coding! 💻
+
 
 
