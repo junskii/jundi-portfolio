@@ -4,6 +4,10 @@
 Hi there! 👋  
 This is my personal GitHub portfolio showcasing my projects and skills across different domains.
 
+## about me
+I'm Muhammad Jundullah, an undergraduate student passionate about technology.
+Currently diving into iOS/Android app development and data analysis and science projects as part of my learning journey.
+
 ### 1. [Hospital Patient Management System](https://github.com/junskii/pythonfundamental)
 **Python · CRUD Operations · Data Management · Hospital System**  
 A comprehensive command-line application for managing hospital patient records with full CRUD functionality.  
