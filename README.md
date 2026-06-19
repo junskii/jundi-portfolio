@@ -22,6 +22,10 @@ The project implements robust data cleaning, feature engineering, exploratory da
 **Software Design Patterns · Spring Boot · Java · Web Application**  
 A comprehensive pharmacy management system built as a learning project to demonstrate the practical implementation of 6 design patterns (Factory, Observer, Command, Decorator, Strategy, Template Method). The application provides complete features for managing medicines, processing sales transactions, user management with role-based access control, and generating reports using Spring Boot, MyBatis, and Thymeleaf.
 
+### 4. [AmanKU](https://github.com/junskii/AmanKU)
+**SwiftUI · Supabase · VisionKit · MVVM · AI Summary · Web Admin**  
+A cross-platform security-post management system for an Islamic boarding school (pesantren). The iOS app adapts by device — officers on iPhone manage package intake (OCR + barcode scanning), visitor check-in/out, and incident logging across four tabs, while an iPad kiosk provides self-service package pickup for students. Includes an AI-powered daily summary via a Supabase Edge Function that calls the OpenAI API, rendered with a custom SwiftUI Markdown theme. A static HTML/JS admin panel covers dashboard, officer management, and read views. Built with SwiftUI (MVVM), supabase-swift, VisionKit, and a dark glass UI theme with custom design tokens.
+
 ---
 
 More projects are on the way! Feel free to explore the repositories.
